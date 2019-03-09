@@ -1,0 +1,337 @@
+0    DEBUG [2018-12-09 16:45:00]  Couldn't find template in cache for "login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2018-12-09 16:45:00]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+7    DEBUG [2018-12-09 16:45:00]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+8    DEBUG [2018-12-09 16:45:00]  TemplateLoader.findTemplateSource("login.ftl"): Found
+9    DEBUG [2018-12-09 16:45:00]  Loading template for "login.ftl"("zh_CN", UTF-8, parsed) from "D:\\javaspace\\ebao-shopp-parent\\ebao-shopp-pc-web\\target\\classes\\templates\\login.ftl"
+247  DEBUG [2018-12-09 16:45:00]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1    DEBUG [2018-12-09 16:59:02]  Couldn't find template in cache for "login.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+6    DEBUG [2018-12-09 16:59:02]  TemplateLoader.findTemplateSource("login_zh_CN.ftl"): Not found
+8    DEBUG [2018-12-09 16:59:02]  TemplateLoader.findTemplateSource("login_zh.ftl"): Not found
+10   DEBUG [2018-12-09 16:59:02]  TemplateLoader.findTemplateSource("login.ftl"): Found
+10   DEBUG [2018-12-09 16:59:02]  Loading template for "login.ftl"("zh_CN", UTF-8, parsed) from "D:\\javaspace\\ebao-shopp-parent\\ebao-shopp-pc-web\\target\\classes\\templates\\login.ftl"
+350  DEBUG [2018-12-09 16:59:02]  "login.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-01-05 17:21:52]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+23   DEBUG [2019-01-05 17:21:52]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+26   DEBUG [2019-01-05 17:21:52]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+26   DEBUG [2019-01-05 17:21:52]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+12244 DEBUG [2019-01-05 17:22:04]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+12245 DEBUG [2019-01-05 17:22:04]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+12245 DEBUG [2019-01-05 17:22:04]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+12245 DEBUG [2019-01-05 17:22:04]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2019-01-05 18:21:15]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+5    DEBUG [2019-01-05 18:21:15]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+8    DEBUG [2019-01-05 18:21:15]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+8    DEBUG [2019-01-05 18:21:15]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+59846 DEBUG [2019-01-05 18:22:15]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+59847 DEBUG [2019-01-05 18:22:15]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+59848 DEBUG [2019-01-05 18:22:15]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+59850 DEBUG [2019-01-05 18:22:15]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+184138 DEBUG [2019-01-05 18:24:19]  Couldn't find template in cache for "ERROR.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+184140 DEBUG [2019-01-05 18:24:19]  TemplateLoader.findTemplateSource("ERROR_zh_CN.ftl"): Not found
+184140 DEBUG [2019-01-05 18:24:19]  TemplateLoader.findTemplateSource("ERROR_zh.ftl"): Not found
+184141 DEBUG [2019-01-05 18:24:19]  TemplateLoader.findTemplateSource("ERROR.ftl"): Not found
+184367 DEBUG [2019-01-05 18:24:19]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+184368 DEBUG [2019-01-05 18:24:19]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+184369 DEBUG [2019-01-05 18:24:19]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+184369 DEBUG [2019-01-05 18:24:19]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+1    DEBUG [2019-01-05 18:28:43]  Couldn't find template in cache for "ERROR.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+8    DEBUG [2019-01-05 18:28:43]  TemplateLoader.findTemplateSource("ERROR_zh_CN.ftl"): Not found
+11   DEBUG [2019-01-05 18:28:43]  TemplateLoader.findTemplateSource("ERROR_zh.ftl"): Not found
+13   DEBUG [2019-01-05 18:28:43]  TemplateLoader.findTemplateSource("ERROR.ftl"): Not found
+116  DEBUG [2019-01-05 18:28:43]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+117  DEBUG [2019-01-05 18:28:43]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+118  DEBUG [2019-01-05 18:28:43]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+119  DEBUG [2019-01-05 18:28:43]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2019-01-05 18:31:23]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2019-01-05 18:31:23]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+6    DEBUG [2019-01-05 18:31:23]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+8    DEBUG [2019-01-05 18:31:23]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+8    DEBUG [2019-01-05 18:31:23]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "D:\\javaspace\\ebao-shopp-parent\\ebao-shopp-pc-web\\target\\classes\\templates\\pay_success.ftl"
+682  DEBUG [2019-01-05 18:31:24]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+732  ERROR [2019-01-05 18:31:24]  Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> outTradeNo  [in template "pay_success.ftl" at line 1, column 14]
+
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${outTradeNo}  [in template "pay_success.ftl" at line 1, column 12]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:465)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:387)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:356)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:96)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:59)
+	at freemarker.core.Environment.visit(Environment.java:326)
+	at freemarker.core.Environment.visit(Environment.java:332)
+	at freemarker.core.Environment.process(Environment.java:305)
+	at freemarker.template.Template.process(Template.java:378)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.processTemplate(FreeMarkerView.java:367)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.doRender(FreeMarkerView.java:284)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.renderMergedTemplateModel(FreeMarkerView.java:234)
+	at org.springframework.web.servlet.view.AbstractTemplateView.renderMergedOutputModel(AbstractTemplateView.java:167)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:303)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1286)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1041)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:984)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.web.filter.ApplicationContextHeaderFilter.doFilterInternal(ApplicationContextHeaderFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.trace.WebRequestTraceFilter.doFilterInternal(WebRequestTraceFilter.java:110)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.autoconfigure.MetricsFilter.doFilterInternal(MetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+852  DEBUG [2019-01-05 18:31:24]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+853  DEBUG [2019-01-05 18:31:24]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+853  DEBUG [2019-01-05 18:31:24]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+854  DEBUG [2019-01-05 18:31:24]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+0    DEBUG [2019-01-05 18:38:54]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2019-01-05 18:38:54]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+7    DEBUG [2019-01-05 18:38:54]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+9    DEBUG [2019-01-05 18:38:54]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+9    DEBUG [2019-01-05 18:38:54]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "D:\\javaspace\\ebao-shopp-parent\\ebao-shopp-pc-web\\target\\classes\\templates\\pay_success.ftl"
+197  DEBUG [2019-01-05 18:38:54]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+222  ERROR [2019-01-05 18:38:54]  Error executing FreeMarker template
+FreeMarker template error:
+The following has evaluated to null or missing:
+==> outTradeNo  [in template "pay_success.ftl" at line 1, column 14]
+
+----
+Tip: If the failing expression is known to be legally refer to something that's sometimes null or missing, either specify a default value like myOptionalVar!myDefault, or use <#if myOptionalVar??>when-present<#else>when-missing</#if>. (These only cover the last step of the expression; to cover the whole expression, use parenthesis: (myOptionalVar.foo)!myDefault, (myOptionalVar.foo)??
+----
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: ${outTradeNo}  [in template "pay_success.ftl" at line 1, column 12]
+----
+
+Java stack trace (for programmers):
+----
+freemarker.core.InvalidReferenceException: [... Exception message was already printed; see it above ...]
+	at freemarker.core.InvalidReferenceException.getInstance(InvalidReferenceException.java:134)
+	at freemarker.core.EvalUtil.coerceModelToTextualCommon(EvalUtil.java:465)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:387)
+	at freemarker.core.EvalUtil.coerceModelToStringOrMarkup(EvalUtil.java:356)
+	at freemarker.core.DollarVariable.calculateInterpolatedStringOrMarkup(DollarVariable.java:96)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:59)
+	at freemarker.core.Environment.visit(Environment.java:326)
+	at freemarker.core.Environment.visit(Environment.java:332)
+	at freemarker.core.Environment.process(Environment.java:305)
+	at freemarker.template.Template.process(Template.java:378)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.processTemplate(FreeMarkerView.java:367)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.doRender(FreeMarkerView.java:284)
+	at org.springframework.web.servlet.view.freemarker.FreeMarkerView.renderMergedTemplateModel(FreeMarkerView.java:234)
+	at org.springframework.web.servlet.view.AbstractTemplateView.renderMergedOutputModel(AbstractTemplateView.java:167)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:303)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1286)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1041)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:984)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:635)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.web.filter.ApplicationContextHeaderFilter.doFilterInternal(ApplicationContextHeaderFilter.java:55)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.trace.WebRequestTraceFilter.doFilterInternal(WebRequestTraceFilter.java:110)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:105)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.autoconfigure.MetricsFilter.doFilterInternal(MetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:80)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:799)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1455)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+736  DEBUG [2019-01-05 18:38:55]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+737  DEBUG [2019-01-05 18:38:55]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+737  DEBUG [2019-01-05 18:38:55]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+738  DEBUG [2019-01-05 18:38:55]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+56340 DEBUG [2019-01-05 18:39:51]  Couldn't find template in cache for "ERROR.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+56384 DEBUG [2019-01-05 18:39:51]  TemplateLoader.findTemplateSource("ERROR_zh_CN.ftl"): Not found
+56384 DEBUG [2019-01-05 18:39:51]  TemplateLoader.findTemplateSource("ERROR_zh.ftl"): Not found
+56386 DEBUG [2019-01-05 18:39:51]  TemplateLoader.findTemplateSource("ERROR.ftl"): Not found
+57129 DEBUG [2019-01-05 18:39:51]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+57132 DEBUG [2019-01-05 18:39:51]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+57133 DEBUG [2019-01-05 18:39:51]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+57133 DEBUG [2019-01-05 18:39:51]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+109440 DEBUG [2019-01-05 18:40:44]  TemplateLoader.findTemplateSource("ERROR_zh_CN.ftl"): Not found
+109440 DEBUG [2019-01-05 18:40:44]  TemplateLoader.findTemplateSource("ERROR_zh.ftl"): Not found
+109441 DEBUG [2019-01-05 18:40:44]  TemplateLoader.findTemplateSource("ERROR.ftl"): Not found
+109441 DEBUG [2019-01-05 18:40:44]  "ERROR.ftl"("zh_CN", UTF-8, parsed) no source found.
+109468 DEBUG [2019-01-05 18:40:44]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+109469 DEBUG [2019-01-05 18:40:44]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+109469 DEBUG [2019-01-05 18:40:44]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+109469 DEBUG [2019-01-05 18:40:44]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2019-01-05 18:43:01]  Couldn't find template in cache for "ERROR.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2019-01-05 18:43:01]  TemplateLoader.findTemplateSource("ERROR_zh_CN.ftl"): Not found
+6    DEBUG [2019-01-05 18:43:01]  TemplateLoader.findTemplateSource("ERROR_zh.ftl"): Not found
+10   DEBUG [2019-01-05 18:43:01]  TemplateLoader.findTemplateSource("ERROR.ftl"): Not found
+123  DEBUG [2019-01-05 18:43:01]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+124  DEBUG [2019-01-05 18:43:01]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+125  DEBUG [2019-01-05 18:43:01]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+126  DEBUG [2019-01-05 18:43:01]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+9392 DEBUG [2019-01-05 18:43:10]  TemplateLoader.findTemplateSource("ERROR_zh_CN.ftl"): Not found
+9406 DEBUG [2019-01-05 18:43:10]  TemplateLoader.findTemplateSource("ERROR_zh.ftl"): Not found
+9407 DEBUG [2019-01-05 18:43:10]  TemplateLoader.findTemplateSource("ERROR.ftl"): Not found
+9407 DEBUG [2019-01-05 18:43:10]  "ERROR.ftl"("zh_CN", UTF-8, parsed) no source found.
+9462 DEBUG [2019-01-05 18:43:10]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+9463 DEBUG [2019-01-05 18:43:10]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+9463 DEBUG [2019-01-05 18:43:10]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+9464 DEBUG [2019-01-05 18:43:10]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2019-01-05 18:46:14]  Couldn't find template in cache for "ERROR.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+42   DEBUG [2019-01-05 18:46:14]  TemplateLoader.findTemplateSource("ERROR_zh_CN.ftl"): Not found
+44   DEBUG [2019-01-05 18:46:14]  TemplateLoader.findTemplateSource("ERROR_zh.ftl"): Not found
+45   DEBUG [2019-01-05 18:46:14]  TemplateLoader.findTemplateSource("ERROR.ftl"): Not found
+164  DEBUG [2019-01-05 18:46:14]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+165  DEBUG [2019-01-05 18:46:14]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+166  DEBUG [2019-01-05 18:46:14]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+167  DEBUG [2019-01-05 18:46:14]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+166982 DEBUG [2019-01-05 18:49:01]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+166986 DEBUG [2019-01-05 18:49:01]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+166986 DEBUG [2019-01-05 18:49:01]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+166988 DEBUG [2019-01-05 18:49:01]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+166988 DEBUG [2019-01-05 18:49:01]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "D:\\javaspace\\ebao-shopp-parent\\ebao-shopp-pc-web\\target\\classes\\templates\\pay_success.ftl"
+167602 DEBUG [2019-01-05 18:49:01]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+0    DEBUG [2019-01-05 19:16:19]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2019-01-05 19:16:19]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+6    DEBUG [2019-01-05 19:16:19]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+7    DEBUG [2019-01-05 19:16:19]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+115148 DEBUG [2019-01-05 19:18:14]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+115153 DEBUG [2019-01-05 19:18:14]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+115154 DEBUG [2019-01-05 19:18:14]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+115156 DEBUG [2019-01-05 19:18:14]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2019-01-05 19:19:38]  Couldn't find template in cache for "error.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+3    DEBUG [2019-01-05 19:19:38]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+5    DEBUG [2019-01-05 19:19:38]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+6    DEBUG [2019-01-05 19:19:38]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+15578 DEBUG [2019-01-05 19:19:54]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+15579 DEBUG [2019-01-05 19:19:54]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+15580 DEBUG [2019-01-05 19:19:54]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+15580 DEBUG [2019-01-05 19:19:54]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+31906 DEBUG [2019-01-05 19:20:10]  TemplateLoader.findTemplateSource("error_zh_CN.ftl"): Not found
+31907 DEBUG [2019-01-05 19:20:10]  TemplateLoader.findTemplateSource("error_zh.ftl"): Not found
+31907 DEBUG [2019-01-05 19:20:10]  TemplateLoader.findTemplateSource("error.ftl"): Not found
+31908 DEBUG [2019-01-05 19:20:10]  "error.ftl"("zh_CN", UTF-8, parsed) no source found.
+0    DEBUG [2019-01-05 19:22:09]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+4    DEBUG [2019-01-05 19:22:09]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+7    DEBUG [2019-01-05 19:22:09]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+9    DEBUG [2019-01-05 19:22:09]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+10   DEBUG [2019-01-05 19:22:09]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "D:\\javaspace\\ebao-shopp-parent\\ebao-shopp-pc-web\\target\\classes\\templates\\pay_success.ftl"
+132  DEBUG [2019-01-05 19:22:09]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+147021 DEBUG [2019-01-05 19:24:36]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+147023 DEBUG [2019-01-05 19:24:36]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+147024 DEBUG [2019-01-05 19:24:36]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+147026 DEBUG [2019-01-05 19:24:36]  "pay_success.ftl"("zh_CN", UTF-8, parsed): using cached since D:\javaspace\ebao-shopp-parent\ebao-shopp-pc-web\target\classes\templates\pay_success.ftl hasn't changed.
+147027 DEBUG [2019-01-05 19:24:36]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+1    DEBUG [2019-01-06 19:38:07]  Couldn't find template in cache for "pay_success.ftl"("zh_CN", UTF-8, parsed); will try to load it.
+5    DEBUG [2019-01-06 19:38:07]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+9    DEBUG [2019-01-06 19:38:07]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+12   DEBUG [2019-01-06 19:38:07]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+12   DEBUG [2019-01-06 19:38:07]  Loading template for "pay_success.ftl"("zh_CN", UTF-8, parsed) from "D:\\javaspace\\ebao-shopp-parent\\ebao-shopp-pc-web\\target\\classes\\templates\\pay_success.ftl"
+1325 DEBUG [2019-01-06 19:38:09]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+633939 DEBUG [2019-01-06 19:48:41]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+633941 DEBUG [2019-01-06 19:48:41]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+633941 DEBUG [2019-01-06 19:48:41]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+633941 DEBUG [2019-01-06 19:48:41]  "pay_success.ftl"("zh_CN", UTF-8, parsed): using cached since D:\javaspace\ebao-shopp-parent\ebao-shopp-pc-web\target\classes\templates\pay_success.ftl hasn't changed.
+633942 DEBUG [2019-01-06 19:48:41]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.
+870608 DEBUG [2019-01-06 19:52:38]  TemplateLoader.findTemplateSource("pay_success_zh_CN.ftl"): Not found
+870609 DEBUG [2019-01-06 19:52:38]  TemplateLoader.findTemplateSource("pay_success_zh.ftl"): Not found
+870610 DEBUG [2019-01-06 19:52:38]  TemplateLoader.findTemplateSource("pay_success.ftl"): Found
+870610 DEBUG [2019-01-06 19:52:38]  "pay_success.ftl"("zh_CN", UTF-8, parsed): using cached since D:\javaspace\ebao-shopp-parent\ebao-shopp-pc-web\target\classes\templates\pay_success.ftl hasn't changed.
+870611 DEBUG [2019-01-06 19:52:38]  "pay_success.ftl"("zh_CN", UTF-8, parsed) cached copy not yet stale; using cached.

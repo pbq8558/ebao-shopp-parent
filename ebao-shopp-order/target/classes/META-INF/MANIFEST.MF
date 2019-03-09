@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ebao-shopp-order
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.ebao
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/ebao-shopp-p
+ arent/ebao-shopp-order/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
